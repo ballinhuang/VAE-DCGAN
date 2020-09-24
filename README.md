@@ -15,8 +15,8 @@ python3 interpolate.py --dataroot [path to dataset] --netE [path to NetE] --netG
 
 ### Result
 #### VAE vs VAE/DEGAN
-![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/Final/result/vae_exp.png)
-![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/Final/result/vae_dcgan_exp.png)
+![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/result/vae_exp.png)
+![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/result/vae_dcgan_exp.png)
 
 #### Interpolate Visual Attribute Vectors with AE-DCGAN
 ![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/result/exp_result.png)
