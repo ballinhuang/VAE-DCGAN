@@ -20,3 +20,4 @@ python3 interpolate.py --dataroot [path to dataset] --netE [path to NetE] --netG
 
 ### Interpolate Visual Attribute Vectors with AE-DCGAN
 ![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/result/exp_result.png)
+![image](https://github.com/ballinhuang/VAE-DCGAN/blob/master/result/vae-dcgan-gamma.png)
